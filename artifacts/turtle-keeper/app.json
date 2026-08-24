@@ -8,6 +8,14 @@
     "scheme": "turtle-keeper",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "android": {
+      "package": "com.mehdihe81.turtlekeeper"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d9241956-a79d-42f1-b749-5b599a7a20cf"
+      }
+    },
     "splash": {
       "image": "./assets/images/icon.png",
       "resizeMode": "contain",
@@ -16,7 +24,6 @@
     "ios": {
       "supportsTablet": false
     },
-    "android": {},
     "web": {
       "favicon": "./assets/images/icon.png"
     },
