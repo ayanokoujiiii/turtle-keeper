@@ -56,6 +56,8 @@
     "zod-validation-error": "^3.4.0"
   },
   "dependencies": {
+    "expo-document-picker": "~14.0.8",
+    "expo-file-system": "~19.0.24",
     "expo-notifications": "~0.32.17"
   }
 }
