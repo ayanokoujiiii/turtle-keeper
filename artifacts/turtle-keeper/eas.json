@@ -3,6 +3,7 @@
     "production": {
       "distribution": "internal",
       "node": "20.18.0",
+      "image": "ubuntu-22.04-jdk-17-ndk-r27b",
       "android": {
         "buildType": "apk"
       }
@@ -10,6 +11,7 @@
     "preview": {
       "distribution": "internal",
       "node": "20.18.0",
+      "image": "ubuntu-22.04-jdk-17-ndk-r27b",
       "android": {
         "buildType": "apk"
       }
