@@ -58,6 +58,7 @@
   "dependencies": {
     "expo-document-picker": "~14.0.8",
     "expo-file-system": "~19.0.24",
-    "expo-notifications": "~0.32.17"
+    "expo-notifications": "~0.32.17",
+    "expo-sharing": "~14.0.8"
   }
 }
